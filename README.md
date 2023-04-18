@@ -35,7 +35,7 @@ Developed by: sucharitha
 RegisterNumber:  212221240021
 */
 
-
+```
 ## MainActivity.java:
 
 package com.example.fontsize;
@@ -95,9 +95,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
-
+```
 ## activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-
+```
 ## Output:
 ![output](https://github.com/Saibandhavi75/Ex-2-a-_HelloWorld_Activity/blob/main/21.jpeg?raw=true)
 
